@@ -1,10 +1,14 @@
 # Spotify Clone - Music Player Web UI
 
-A responsive and modern frontend clone of the Spotify web player interface built with HTML and CSS.
+A modern frontend clone of the Spotify web player interface built with HTML and CSS.
+
+---
 
 ## Live Demo
 
-✨ [Click here to view the live website](https://varuntg166.github.io/spotify-clone/) *(Note: Hold Ctrl or Cmd when clicking to open in a new tab, or use the live link in the repository sidebar on the right!)*
+✨ [Click here to view the live website](https://varuntg156.github.io/spotify-clone/) *(Note: Hold Ctrl or Cmd when clicking to open in a new tab, or use the live link in the repository sidebar on the right!)*
+
+---
 
 ## Getting Started
 
